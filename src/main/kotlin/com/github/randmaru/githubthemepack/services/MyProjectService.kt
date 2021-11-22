@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.randmaru.githubthemepack.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.randmaru.githubthemepack.MyBundle
 
 class MyProjectService(project: Project) {
 
